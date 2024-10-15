@@ -7,6 +7,6 @@
 <title>Proyecto Poo2</title>
 </head>
 <body>
- Hola Mundo Web
+ Hola Mundo Web - Bienvenido
 </body>
 </html>
